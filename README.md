@@ -19,5 +19,4 @@ before going to deep div at first we discuss about [Kamran Ahmed](https://github
 [logo]: https://camo.githubusercontent.com/4511e3b4831b40f49c008418b5bb509d10efcbac/68747470733a2f2f692e696d6775722e636f6d2f4f5a554f5574492e706e67 "Web Developer Roadmap 2018"
 
 ## Front End Developer Roadmap 2018
-![alt text][logo]
-[logo]: https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend-v2.png?raw=true "Front End Developer Roadmap 2018"
+![alt text](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/frontend-v2.png "Front End Roadmap")
