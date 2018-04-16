@@ -1,5 +1,5 @@
-# Learning-Path-and-Resources-2018
-My Own Self Thought Front End Development Learning Path and Resources-2018
+# Front End Development Learning-Path-and-Resources-2018
+Self Thought Front End Development Learning Path and Resources - 2018
 
 # Background:
 There are so many guide available in the virtual world. some of most famous *Front End Web Developer Roadmap* blog posts see below:
@@ -20,3 +20,31 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## Front End Developer Roadmap 2018
 ![alt text](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/frontend-v2.png "Front End Roadmap")
+
+## Description:
+[Mr. Kamran Ahmed](https://github.com/kamranahmedse) already describe how we use this roadmap and how we achieve our target as soon as possible with etical way. read this blog post for deatails: [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
+
+### Now we know, we need to learn 
+
+1. How the web works
+2. HTML5
+3. CSS3
+4. JavaScript
+5. Chrome Dev Tools
+6. jQuery(Optional)
+7. Git & Github
+8. Package Manager: NPM or Yarn
+9. CSS-Preprocessor: SASS or LESS
+10. CSS Frameworks: Bootstrap, Foundation or Materialize
+11. CSS Organizer: BEM
+12. Modern JavaScript: ES6
+13. JS Data Structures & Algorithms
+14. JS Build Tools: Webpack
+15. JS Task Runner: Gulp
+16. JS Organizer: ESLint
+17. JS Frameworks or Libraries: React.js, Angular or Vue.js
+18. State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
+19. JS Testing Tools: Jest, Mocha or Enzyme
+20. JS Static Type Checkers: TypeScript
+21. JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
+22. Others: HTML5 APIs, Canvas, SVG etc.
