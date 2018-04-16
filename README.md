@@ -12,7 +12,7 @@ There are so many guide available in the virtual world. some of most famous *Fro
 etc.
 
 # Introduction:
-before going to deep div at first we discuss about [Kamran Ahmed](https://github.com/kamranahmedse) *Web Developer Roadmap 2018*.
+before going to deep div at first we discuss about [Kamran Ahmed *Web Developer Roadmap 2018*](https://github.com/kamranahmedse/developer-roadmap).
 
 ![alt text][logo]
 
