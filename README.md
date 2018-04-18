@@ -27,27 +27,27 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ### Now we know, we need to learn 
 
 - [How the web works](#how-the-web-works)
-- HTML5
-- CSS3
-- JavaScript
-- Chrome Dev Tools
-- jQuery(Optional)
-- Git & Github
-- Package Manager: NPM or Yarn
-- CSS-Preprocessor: SASS or LESS
-- CSS Frameworks: Bootstrap, Foundation or Materialize
-- CSS Organizer: BEM
-- Modern JavaScript: ES6
-- JS Data Structures & Algorithms
-- JS Build Tools: Webpack
-- JS Task Runner: Gulp
-- JS Organizer: ESLint
-- JS Frameworks or Libraries: React.js, Angular or Vue.js
-- State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
-- JS Testing Tools: Jest, Mocha or Enzyme
-- JS Static Type Checkers: TypeScript
-- JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
-- Others: HTML5 APIs, Canvas, SVG etc.
+- [HTML5](#html5)
+- [CSS3](#css3)
+- [JavaScript](#javascript)
+- [Chrome Dev Tools](#devtools)
+- [jQuery(Optional)](#jquery)
+- [Git & Github](#git-and-github)
+- [Package Manager: NPM or Yarn](#npm)
+- [CSS-Preprocessor: SASS or LESS](#sass)
+- [CSS Frameworks: Bootstrap, Foundation or Materialize](#bootstrap)
+- [CSS Organizer: BEM](#bem)
+- [Modern JavaScript: ES6](#es6)
+- [JS Data Structures & Algorithms](#data-structure-and-algorithms)
+- [JS Build Tools: Webpack](#webpack)
+- [JS Task Runner: Gulp](#gulp)
+- [JS Organizer: ESLint](#eslint)
+- [JS Frameworks or Libraries: React.js, Angular or Vue.js](#react-js)
+- [State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js](#redux-or-mobx)
+- [JS Testing Tools: Jest, Mocha or Enzyme](#jest)
+- [JS Static Type Checkers: TypeScript](#typescript)
+- [JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js](#next-js)
+- [Others: HTML5 APIs, Canvas, SVG etc.](#others)
 
 
 ## How the web works
