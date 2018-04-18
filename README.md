@@ -26,7 +26,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ### Now we know, we need to learn 
 
-1. [How the web works](#How the web works)
+1. - [How the web works](#How-the-web-works)
 2. HTML5
 3. CSS3
 4. JavaScript
@@ -50,7 +50,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 22. Others: HTML5 APIs, Canvas, SVG etc.
 
 
-### How the web works
+## How the web works
 ### HTML5
 ### CSS3
 ### JavaScript
