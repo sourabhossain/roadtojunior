@@ -26,49 +26,49 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ### Now we know, we need to learn 
 
-1. - [How the web works](#How-the-web-works)
-2. HTML5
-3. CSS3
-4. JavaScript
-5. Chrome Dev Tools
-6. jQuery(Optional)
-7. Git & Github
-8. Package Manager: NPM or Yarn
-9. CSS-Preprocessor: SASS or LESS
-10. CSS Frameworks: Bootstrap, Foundation or Materialize
-11. CSS Organizer: BEM
-12. Modern JavaScript: ES6
-13. JS Data Structures & Algorithms
-14. JS Build Tools: Webpack
-15. JS Task Runner: Gulp
-16. JS Organizer: ESLint
-17. JS Frameworks or Libraries: React.js, Angular or Vue.js
-18. State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
-19. JS Testing Tools: Jest, Mocha or Enzyme
-20. JS Static Type Checkers: TypeScript
-21. JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
-22. Others: HTML5 APIs, Canvas, SVG etc.
+- [How the web works](#how-the-web-works)
+- HTML5
+- CSS3
+- JavaScript
+- Chrome Dev Tools
+- jQuery(Optional)
+- Git & Github
+- Package Manager: NPM or Yarn
+- CSS-Preprocessor: SASS or LESS
+- CSS Frameworks: Bootstrap, Foundation or Materialize
+- CSS Organizer: BEM
+- Modern JavaScript: ES6
+- JS Data Structures & Algorithms
+- JS Build Tools: Webpack
+- JS Task Runner: Gulp
+- JS Organizer: ESLint
+- JS Frameworks or Libraries: React.js, Angular or Vue.js
+- State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
+- JS Testing Tools: Jest, Mocha or Enzyme
+- JS Static Type Checkers: TypeScript
+- JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
+- Others: HTML5 APIs, Canvas, SVG etc.
 
 
 ## How the web works
-### HTML5
-### CSS3
-### JavaScript
-### Chrome Dev Tools
-### jQuery(Optional)
-### Git & Github
-### Package Manager: NPM or Yarn
-### CSS-Preprocessor: SASS or LESS
-### CSS Frameworks: Bootstrap, Foundation or Materialize
-### CSS Organizer: BEM
-### Modern JavaScript: ES6
-### JS Data Structures & Algorithms
-### JS Build Tools: Webpack
-### JS Task Runner: Gulp
-### JS Organizer: ESLint
-### JS Frameworks or Libraries: React.js, Angular or Vue.js
-### State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
-### JS Testing Tools: Jest, Mocha or Enzyme
-### JS Static Type Checkers: TypeScript
-### JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
-### Others: HTML5 APIs, Canvas, SVG etc.
+## HTML5
+## CSS3
+## JavaScript
+## Chrome Dev Tools
+## jQuery(Optional)
+## Git & Github
+## Package Manager: NPM or Yarn
+## CSS-Preprocessor: SASS or LESS
+## CSS Frameworks: Bootstrap, Foundation or Materialize
+## CSS Organizer: BEM
+## Modern JavaScript: ES6
+## JS Data Structures & Algorithms
+## JS Build Tools: Webpack
+## JS Task Runner: Gulp
+## JS Organizer: ESLint
+## JS Frameworks or Libraries: React.js, Angular or Vue.js
+## State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
+## JS Testing Tools: Jest, Mocha or Enzyme
+## JS Static Type Checkers: TypeScript
+## JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
+## Others: HTML5 APIs, Canvas, SVG etc.
