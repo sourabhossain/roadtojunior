@@ -50,6 +50,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js](#js-server-side-rendering-next-js)
 - [Others: HTML5 APIs, Canvas, SVG etc.](#others-html5-apis-canvas-svg-etc)
 
+# Resources:
+My own collective resources list and recommendation:
 
 ## How the web works
 ## HTML5
