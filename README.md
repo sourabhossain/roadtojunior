@@ -22,7 +22,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ![alt text](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/frontend-v2.png "Front End Roadmap")
 
 ## Description:
-[Mr. Kamran Ahmed](https://github.com/kamranahmedse) already describe how we use this roadmap and how we achieve our target as soon as possible with etical way. read this blog post for deatails: [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
+[Mr. Kamran Ahmed](https://github.com/kamranahmedse) already describe how we use this roadmap and how we achieve our target as soon as possible with ethical way. read this blog post for deatails: [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 
 ### Now we know, we need to learn 
 
@@ -48,3 +48,27 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 20. JS Static Type Checkers: TypeScript
 21. JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
 22. Others: HTML5 APIs, Canvas, SVG etc.
+
+
+### How the web works
+### HTML5
+### CSS3
+### JavaScript
+### Chrome Dev Tools
+### jQuery(Optional)
+### Git & Github
+### Package Manager: NPM or Yarn
+### CSS-Preprocessor: SASS or LESS
+### CSS Frameworks: Bootstrap, Foundation or Materialize
+### CSS Organizer: BEM
+### Modern JavaScript: ES6
+### JS Data Structures & Algorithms
+### JS Build Tools: Webpack
+### JS Task Runner: Gulp
+### JS Organizer: ESLint
+### JS Frameworks or Libraries: React.js, Angular or Vue.js
+### State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
+### JS Testing Tools: Jest, Mocha or Enzyme
+### JS Static Type Checkers: TypeScript
+### JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
+### Others: HTML5 APIs, Canvas, SVG etc.
