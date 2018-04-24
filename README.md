@@ -55,7 +55,34 @@ My own collective resources list and recommendation:
 
 ## How the web works
 ## HTML5
+
 ## CSS3
+  Text
+  ### Recommended Resources:
+  -[] [ewrbdfbsd]()
+  -[] [egsdbdfb]()
+  -[] [segseesgs]()
+  
+  ### More Resources:
+  -[] [sddsdsbs]()
+  -[] [segsbbfb]()\
+ 
+  ### CSS Flexbox:
+  -[] [What is Flexbox? by Wes Bos]()
+  -[] [Flexbox Guide by Chris Coyer]()
+  -[] [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
+  #### CSS Flexbox Practice:
+    - [Practice]()
+    - [Practice]()
+    
+  ### CSS Grid:
+  -[] [Learn CSS3 Grid by Wes Bos]()
+  -[] [CSS3 Grid Guide by Chris Coyer]()
+  -[] [eesvesv]()
+  #### CSS Grid Practice:
+    - [Practice]()
+    - [Practice]()
+    
 ## JavaScript
 ## Chrome Dev Tools
 ## jQuery(Optional)
