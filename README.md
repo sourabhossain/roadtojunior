@@ -59,29 +59,29 @@ My own collective resources list and recommendation:
 ## CSS3
   Text
   ### Recommended Resources:
-  -[] [ewrbdfbsd]()
-  -[] [egsdbdfb]()
-  -[] [segseesgs]()
+  - [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
+  - [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+  - [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
   
   ### More Resources:
-  -[] [sddsdsbs]()
-  -[] [segsbbfb]()\
+  - [Visit Hackr.io to Explore more CSS courses](https://hackr.io/tutorials/learn-css)
  
   ### CSS Flexbox:
-  -[] [What is Flexbox? by Wes Bos]()
-  -[] [Flexbox Guide by Chris Coyer]()
-  -[] [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
+  - [What is Flexbox? by Wes Bos](http://flexbox.io/)
+  - [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
   #### CSS Flexbox Practice:
-    - [Practice]()
-    - [Practice]()
+   - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
+   - [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+   - [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
     
   ### CSS Grid:
-  -[] [Learn CSS3 Grid by Wes Bos]()
-  -[] [CSS3 Grid Guide by Chris Coyer]()
-  -[] [eesvesv]()
+  - [Learn CSS3 Grid by Wes Bos]()
+  - [CSS3 Grid Guide by Chris Coyer]()
+  - [123abc]()
   #### CSS Grid Practice:
-    - [Practice]()
-    - [Practice]()
+   - [Practice]()
+   - [Practice]()
     
 ## JavaScript
 ## Chrome Dev Tools
