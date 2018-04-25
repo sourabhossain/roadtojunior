@@ -59,9 +59,9 @@ My own collective resources list and recommendation:
 ## CSS3
   Text
   ### Recommended Resources:
-    1. [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
-    2. [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
-    3. [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
+   1. [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
+   2. [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+   3. [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
   
   ### More Resources:
   - [Visit Hackr.io to Explore more CSS courses](https://hackr.io/tutorials/learn-css)
