@@ -78,8 +78,8 @@ My own collective resources list and recommendation:
     
     ### CSS Grid:
       - [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
-      - [CSS3 Grid Guide by Chris Coyer](https://css-tricks.com/snippets/css/complete-guide-grid/)
-      - [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gflexbox)
+      - [CSS3 Grid Guide by  CHRIS HOUSE](https://css-tricks.com/snippets/css/complete-guide-grid/)
+      - [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gR8PTE)
       - [LEARN CSS GRID](https://learncssgrid.com/)
     
         #### CSS Grid Practice:
