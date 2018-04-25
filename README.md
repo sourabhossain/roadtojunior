@@ -59,9 +59,9 @@ My own collective resources list and recommendation:
 ## CSS3
   Text
   ### Recommended Resources:
-  - [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
-  - [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
-  - [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
+    1. [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
+    2. [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+    3. [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
   
   ### More Resources:
   - [Visit Hackr.io to Explore more CSS courses](https://hackr.io/tutorials/learn-css)
@@ -71,10 +71,10 @@ My own collective resources list and recommendation:
       - [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
       - [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
     
-      #### CSS Flexbox Practices:
-       - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
-       - [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
-       - [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
+        #### CSS Flexbox Practices:
+         - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
+         - [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+         - [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
     
     ### CSS Grid:
       - [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
@@ -82,10 +82,10 @@ My own collective resources list and recommendation:
       - [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gflexbox)
       - [LEARN CSS GRID](https://learncssgrid.com/)
     
-      #### CSS Grid Practice:
-       - [CSS GRID GARDEN](https://cssgridgarden.com/)
-       - [freeCodeCamp Beta CSS GRID Challenges](https://beta.freecodecamp.org/en/challenges/css-grid/introduction-to-the-css-grid-challenges)
-       - [grid critters](http://www.gridcritters.com/)
+        #### CSS Grid Practice:
+         - [CSS GRID GARDEN](https://cssgridgarden.com/)
+         - [freeCodeCamp Beta CSS GRID Challenges](https://beta.freecodecamp.org/en/challenges/css-grid/introduction-to-the-css-grid-challenges)
+         - [grid critters](http://www.gridcritters.com/)
     
 ## JavaScript
 ## Chrome Dev Tools
