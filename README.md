@@ -90,6 +90,11 @@ My own collective resources list and recommendation:
 ## JavaScript
 ## Chrome Dev Tools
 ## jQuery(Optional)
+  - jQuery for total noobs
+    1. Part-I: []()
+    2. Part-I: []()
+    3. Part-I: []()
+
 ## Git & Github
 ## Package Manager: NPM or Yarn
 ## CSS-Preprocessor: SASS or LESS
