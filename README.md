@@ -24,8 +24,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Description:
 [Mr. Kamran Ahmed](https://github.com/kamranahmedse) already describe how we use this roadmap and how we achieve our target as soon as possible with ethical way. read this blog post for deatails: [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 
-### Now we know, we need to learn 
-
+### Now we know, we need to learn
 - [How the web works](#how-the-web-works)
 - [HTML5](#html5)
 - [CSS3](#css3)
@@ -67,40 +66,41 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   3. [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
  
   ### CSS Flexbox:
-    - [What is Flexbox? by Wes Bos](http://flexbox.io/)
-    - [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    - [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
+  - [What is Flexbox? by Wes Bos](http://flexbox.io/)
+  - [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
     
     #### CSS Flexbox Practices:
-      - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
-      - [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
-      - [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
-    
+    - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
+    - [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+    - [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
+
   ### CSS Grid:
-    - [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
-    - [CSS3 Grid Guide by  CHRIS HOUSE](https://css-tricks.com/snippets/css/complete-guide-grid/)
-    - [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gR8PTE)
-    - [LEARN CSS GRID](https://learncssgrid.com/)
+  - [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
+  - [CSS3 Grid Guide by  CHRIS HOUSE](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gR8PTE)
+  - [LEARN CSS GRID](https://learncssgrid.com/)
     
     #### CSS Grid Practice:
-      - [CSS GRID GARDEN](https://cssgridgarden.com/)
-      - [freeCodeCamp Beta CSS GRID Challenges](https://beta.freecodecamp.org/en/challenges/css-grid/introduction-to-the-css-grid-challenges)
-      - [grid critters](http://www.gridcritters.com/)
-    
+    - [CSS GRID GARDEN](https://cssgridgarden.com/)
+    - [freeCodeCamp Beta CSS GRID Challenges](https://beta.freecodecamp.org/en/challenges/css-grid/introduction-to-the-css-grid-challenges)
+    - [grid critters](http://www.gridcritters.com/)
+
 ## JavaScript
-  1. Books:
-    - [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
-    - You Don't Know JavaScript Series:
-      - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-      - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-      - [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-      - [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
-      - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-      - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-  2. Courses:
-    - [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
-    - [Wes Bos: JavaScript30]()
-    - [JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+  ### Books:
+  - [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
+  - You Don't Know JavaScript Series:
+    1. [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+    2. [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+    3. [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+    4. [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+    5. [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+    6. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+
+  ### Courses:
+  - [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+  - [Wes Bos: JavaScript30]()
+  - [JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 
 ## Chrome Dev Tools
   1. [Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
@@ -124,14 +124,18 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## Github
   1. [Rithm School: Git & Github](https://www.rithmschool.com/courses/git)
-  2. []()
+  2. [A Developer Intro to Github](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
 ## Package Manager: NPM or Yarn
-  1. []()
-  2. []()
-  3. []()
+  1. [Node](https://nodejs.org/en/)
+  2. [npm](https://www.npmjs.com/)
+  3. [yarn](https://yarnpkg.com/en/)
 
-## CSS-Preprocessor: SASS or LESS
+## CSS Preprocessor - Sass
+  1. [Codecademy: Learn Sass](https://www.codecademy.com/learn/learn-sass)
+  2. [Sass Official Docs](https://sass-lang.com/guide)
+  3. [Sass online Playground: Sassmeister](https://www.sassmeister.com/)
+
 ## CSS Frameworks: Bootstrap, Foundation or Materialize
 ## CSS Organizer: BEM
 ## Modern JavaScript: ES6
