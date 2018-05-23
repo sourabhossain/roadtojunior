@@ -35,7 +35,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [Git](#git)
 - [Github](#github)
 - [Package Manager - NPM or Yarn](#package-manager-npm-or-yarn)
-- [CSS Preprocessor - SASS](#css-preprocessor-sass)
+- [CSS Preprocessor - Sass](#css-preprocessor-sass)
 - [CSS Frameworks - Bootstrap](#css-frameworks-bootstrap)
 - [CSS Organizer - BEM](#css-organizer-bem)
 - [Modern JavaScript - ES6](#modern-javascript-es6)
