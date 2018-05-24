@@ -9,14 +9,23 @@ There are so many guide available in the virtual world. some of most famous *Fro
 3. [A roadmap to becoming a web developer](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 4. [Front End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 
-etc.
 
 # Introduction:
 before going to deep div at first we discuss about [Kamran Ahmed *Web Developer Roadmap 2018*](https://github.com/kamranahmedse/developer-roadmap).
 
-![alt text][logo]
+![alt text](https://camo.githubusercontent.com/4511e3b4831b40f49c008418b5bb509d10efcbac/68747470733a2f2f692e696d6775722e636f6d2f4f5a554f5574492e706e67 "Web Developer Roadmap 2018")
 
-[logo]: https://camo.githubusercontent.com/4511e3b4831b40f49c008418b5bb509d10efcbac/68747470733a2f2f692e696d6775722e636f6d2f4f5a554f5574492e706e67 "Web Developer Roadmap 2018"
+## Web Development Basic Learning:
+- [ ] [Learning How to Learn](#learning-how-to-learn)
+- [x] [Git - Version Control](#git)
+- [x] [Github](#github)
+- [ ] [SSH](#ssh)
+- [x] [HTTP/HTTPS and APIs](#https-and-apis)
+- [x] [Basic Terminal](#cli)
+- [x] [Basic Programming concept](#programming)
+- [x] [Basic Data Structures and Algorithms](#ds-and-algo)
+- [ ] [Character Encoding](#character-encoding)
+- [ ] [Design Patterns](#design-patterns)
 
 ## Front End Developer Roadmap 2018
 ![alt text](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/frontend-v2.png "Front End Roadmap")
@@ -24,16 +33,16 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Description:
 [Mr. Kamran Ahmed](https://github.com/kamranahmedse) already describe how we use this roadmap and how we achieve our target as soon as possible with ethical way. read this blog post for deatails: [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 
-### Now we know, we need to learn
-- [How the web works](#how-the-web-works)
-- [HTML5](#html5)
-- [CSS3](#css3)
-- [JavaScript](#javascript)
-- [Chrome Dev Tools](#chrome-dev-tools)
-- [jQuery](#jquery)
-- [CLI](#cli)
-- [Git](#git)
-- [Github](#github)
+## Front End Development Languages, Frameworks, Technologies and Tools:
+- [x] [HTML5](#html5)
+- [x] [CSS3](#css3)
+- [ ] [JavaScript](#javascript)
+- [x] [Chrome Dev Tools](#chrome-dev-tools)
+- [ ] [jQuery](#jquery-optional)
+- [x] [CLI](#cli)
+- [x] [Git](#git)
+- [x] [Github](#github)
+- [x] [Documentation](#documentation)
 - [Package Manager - NPM or Yarn](#package-manager-npm-or-yarn)
 - [CSS Preprocessor - Sass](#css-preprocessor-sass)
 - [CSS Frameworks - Bootstrap](#css-frameworks-bootstrap)
@@ -126,6 +135,10 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   1. [Rithm School: Git & Github](https://www.rithmschool.com/courses/git)
   2. [A Developer Intro to Github](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
+## Documentation
+- [x] [The eight rules of good documentation](https://oreil.ly/2knSVdi)
+- [x] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+
 ## Package Manager: NPM or Yarn
   1. [Node](https://nodejs.org/en/)
   2. [npm](https://www.npmjs.com/)
@@ -136,8 +149,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   2. [Sass Official Docs](https://sass-lang.com/guide)
   3. [Sass online Playground: Sassmeister](https://www.sassmeister.com/)
 
-## CSS Frameworks: Bootstrap, Foundation or Materialize
-## CSS Organizer: BEM
+## CSS Frameworks - Bootstrap
+## CSS Organizer - BEM
 ## Modern JavaScript: ES6
 ## JS Data Structures & Algorithms
 ## JS Build Tools: Webpack
