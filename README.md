@@ -66,7 +66,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [x] [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
  
   ### CSS Flexbox:
-  - [] [What is Flexbox? by Wes Bos](http://flexbox.io/)
+  - [ ] [What is Flexbox? by Wes Bos](http://flexbox.io/)
   - [x] [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [x] [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
     
@@ -76,7 +76,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
     - [x] [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
 
   ### CSS Grid:
-  - [] [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
+  - [ ] [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
   - [x] [CSS3 Grid Guide by  CHRIS HOUSE](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [x] [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gR8PTE)
   - [x] [LEARN CSS GRID](https://learncssgrid.com/)
@@ -88,19 +88,19 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## JavaScript
   ### Books:
-  - [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
-  - You Don't Know JavaScript Series:
-    1. [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-    2. [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-    3. [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-    4. [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
-    5. [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-    6. [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+  - [ ] [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
+  - [ ] You Don't Know JavaScript Series:
+    - [x] [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+    - [ ] [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+    - [ ] [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+    - [ ] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+    - [ ] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+    - [ ] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 
   ### Courses:
-  - [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
-  - [Wes Bos: JavaScript30]()
-  - [JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+  - [x] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+  - [ ] [Wes Bos: JavaScript30]()
+  - [x] [JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 
 ## Chrome Dev Tools
   1. [Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
