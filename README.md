@@ -54,9 +54,9 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   My own collection of resources list and recommendation:
 
 ## HTML5
-  1[x]. [W3Schools: Learn HTML5](https://www.w3schools.com/html/)
-  2[x]. [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
-  3[x]. [Coursera: HTML5](https://www.coursera.org/learn/html)
+  1. [x] [W3Schools: Learn HTML5](https://www.w3schools.com/html/)
+  2. [x] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+  3. [x] [Coursera: HTML5](https://www.coursera.org/learn/html)
 
 ## CSS3
 
