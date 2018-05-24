@@ -54,37 +54,37 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   My own collection of resources list and recommendation:
 
 ## HTML5
-  1. [x] [W3Schools: Learn HTML5](https://www.w3schools.com/html/)
-  2. [x] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
-  3. [x] [Coursera: HTML5](https://www.coursera.org/learn/html)
+  - [x] [W3Schools: Learn HTML5](https://www.w3schools.com/html/)
+  - [x] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+  - [x] [Coursera: HTML5](https://www.coursera.org/learn/html)
 
 ## CSS3
 
   ### Recommended Resources:
-  1. [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
-  2. [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
-  3. [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
+  - [x] [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
+  - [x] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+  - [x] [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
  
   ### CSS Flexbox:
-  - [What is Flexbox? by Wes Bos](http://flexbox.io/)
-  - [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  - [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
+  - [] [What is Flexbox? by Wes Bos](http://flexbox.io/)
+  - [x] [Flexbox Guide by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [x] [CSS Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
     
     #### CSS Flexbox Practices:
-    - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
-    - [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
-    - [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
+    - [x] [FLEXBOX FROGGY](http://flexboxfroggy.com/)
+    - [x] [Learn Flexbox with Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+    - [x] [Dead Tired of Looking up Flexbox?](https://mastery.games/p/flexbox-zombies)
 
   ### CSS Grid:
-  - [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
-  - [CSS3 Grid Guide by  CHRIS HOUSE](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gR8PTE)
-  - [LEARN CSS GRID](https://learncssgrid.com/)
+  - [] [Learn CSS3 Grid by Wes Bos](https://cssgrid.io/)
+  - [x] [CSS3 Grid Guide by  CHRIS HOUSE](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [x] [Learn CSS Grid by Scrimba (Per Harald Borgen)](https://scrimba.com/g/gR8PTE)
+  - [x] [LEARN CSS GRID](https://learncssgrid.com/)
     
     #### CSS Grid Practice:
-    - [CSS GRID GARDEN](https://cssgridgarden.com/)
-    - [freeCodeCamp Beta CSS GRID Challenges](https://beta.freecodecamp.org/en/challenges/css-grid/introduction-to-the-css-grid-challenges)
-    - [grid critters](http://www.gridcritters.com/)
+    - [x] [CSS GRID GARDEN](https://cssgridgarden.com/)
+    - [x] [freeCodeCamp Beta CSS GRID Challenges](https://beta.freecodecamp.org/en/challenges/css-grid/introduction-to-the-css-grid-challenges)
+    - [x] [grid critters](http://www.gridcritters.com/)
 
 ## JavaScript
   ### Books:
