@@ -169,12 +169,13 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [ ] [JavaScript implementation of different computer science algorithms](https://github.com/mgechev/javascript-algorithms)
 
-## JS Build Tools: Webpack
-## JS Task Runner: Gulp
-## JS Organizer: ESLint
-## JS Frameworks or Libraries: React.js, Angular or Vue.js
-## State Management Tools: Redux or Mobx for React.js, RxJS for Angular or Vuex for Vue.js
-## JS Testing Tools: Jest, Mocha or Enzyme
-## JS Static Type Checkers: TypeScript
-## JS Server Side Rendering: Next.js for React.js, Universal for Angular and Nuxt.js for Vue.js
-## Others: HTML5 APIs, Canvas, SVG etc.
+## React
+- [ ] [Create React App](https://github.com/facebook/create-react-app)
+
+## Webpack
+## Gulp
+## ESLint
+## Redux or Mobx
+## Jest + Enzyme
+## Next.js
+## Others
