@@ -26,6 +26,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [x] [Basic Data Structures and Algorithms](#ds-and-algo)
 - [ ] [Character Encoding](#character-encoding)
 - [ ] [Design Patterns](#design-patterns)
+- [x] [Documentation](#documentation)
 
 ## Front End Developer Roadmap 2018
 ![alt text](https://github.com/kamranahmedse/developer-roadmap/raw/master/images/frontend-v2.png "Front End Roadmap")
@@ -37,27 +38,23 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [x] [HTML5](#html5)
 - [x] [CSS3](#css3)
 - [ ] [JavaScript](#javascript)
-- [x] [Chrome Dev Tools](#chrome-dev-tools)
-- [ ] [jQuery](#jquery-optional)
-- [x] [CLI](#cli)
-- [x] [Git](#git)
-- [x] [Github](#github)
-- [x] [Documentation](#documentation)
-- [Package Manager - NPM or Yarn](#package-manager-npm-or-yarn)
-- [CSS Preprocessor - Sass](#css-preprocessor-sass)
-- [CSS Frameworks - Bootstrap](#css-frameworks-bootstrap)
-- [CSS Organizer - BEM](#css-organizer-bem)
-- [Modern JavaScript - ES6](#modern-javascript-es6)
-- [JS Data Structures & Algorithms](#js-data-structure-and-algorithms)
-- [JS Build Tools - Webpack](#js-build-tools-webpack)
-- [JS Task Runner - Gulp](#js-task-runner-gulp)
-- [JS Organizer - ESLint](#js-organizer-eslint)
-- [JS Special Tools - Prettier](#js-special-tools-prettier)
-- [JS Libraries - React](#js-libraries-react)
-- [State Management Tools - Redux and Mobx](#state-management-tools-redux-or-mobx)
-- [JS Testing Tools: Jest + Enzyme](#js-testing-tools-jest-+-enzyme)
-- [JS Server Side Rendering - Next.js](#js-server-side-rendering-next-js)
-- [Others - HTML5 APIs, Canvas, SVG etc.](#others-html5-apis-canvas-svg-etc)
+- [x] [Chrome Developer Tools](#chrome-developer-tools)
+- [ ] [jQuery](#jquery-(optional))
+- [ ] [NPM or Yarn](#npm-or-yarn)
+- [ ] [Sass](#sass)
+- [x] [Bootstrap](#bootstrap)
+- [ ] [BEM](#bem)
+- [ ] [Modern JavaScript(ES6)](#modern-javascript-(es6))
+- [ ] [JavaScript Data Structures and Algorithms](#javascript-data-structure-and-algorithms)
+- [ ] [Webpack](#webpack)
+- [ ] [Gulp](#gulp)
+- [ ] [ESLint](#eslint)
+- [ ] [Prettier](#jprettier)
+- [ ] [React](#react)
+- [ ] [Redux or Mobx](#redux-or-mobx)
+- [ ] [Jest + Enzyme](#jest-+-enzyme)
+- [ ] [Next.js](#next)
+- [ ] [Others](#others)
 
 # Resources:
   My own collection of resources list and recommendation:
@@ -69,7 +66,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## CSS3
 
-  ### Recommended Resources:
+  ### Courses:
   - [x] [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
   - [x] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
   - [x] [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
@@ -114,6 +111,11 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Chrome Dev Tools
   1. [Mastering The Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
   2. [Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://medium.freecodecamp.org/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3)
+  
+## Responsive Web Design
+- [x] [Udacity: Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- [ ] []()
+- [ ] []()
 
 ## jQuery(Optional)
   - [jQuery - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
@@ -139,6 +141,15 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [x] [The eight rules of good documentation](https://oreil.ly/2knSVdi)
 - [x] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
+## HTTP/HTTPs and APIs
+- [ ] [MDN: HTTP Explain](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] [Tutorialspoint: HTTP/HTTPs](https://www.tutorialspoint.com/http/index.htm)
+- [ ] [Tutplus: HTTP](https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+
+## Prograssive Web Apps (PWA)
+- [ ] [PWA Starter Kit by Monica](https://www.youtube.com/watch?v=we3lLo-UFtk)
+- [ ] [PWA Summit playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb)
+
 ## Package Manager: NPM or Yarn
   1. [Node](https://nodejs.org/en/)
   2. [npm](https://www.npmjs.com/)
@@ -152,6 +163,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## CSS Frameworks - Bootstrap
 ## CSS Organizer - BEM
 ## Modern JavaScript: ES6
+- [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
+
 ## JS Data Structures & Algorithms
 ## JS Build Tools: Webpack
 ## JS Task Runner: Gulp
