@@ -165,7 +165,10 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Modern JavaScript: ES6
 - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
 
-## JS Data Structures & Algorithms
+## JavaScript Data Structures & Algorithms
+- [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [ ] [JavaScript implementation of different computer science algorithms](https://github.com/mgechev/javascript-algorithms)
+
 ## JS Build Tools: Webpack
 ## JS Task Runner: Gulp
 ## JS Organizer: ESLint
