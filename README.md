@@ -44,7 +44,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] [Sass](#sass)
 - [x] [Bootstrap](#bootstrap)
 - [ ] [BEM](#bem)
-- [ ] [Modern JavaScript(ES6)](#modern-javascript-(es6))
+- [ ] [Modern JavaScript ES6+](#modern-javascript)
 - [ ] [JavaScript Data Structures and Algorithms](#javascript-data-structure-and-algorithms)
 - [ ] [Webpack](#webpack)
 - [ ] [Gulp](#gulp)
@@ -94,7 +94,6 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## JavaScript
   ### Books:
-  - [ ] [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
   - [ ] You Don't Know JavaScript Series:
     - [x] [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
     - [ ] [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -162,9 +161,14 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## Bootstrap
 ## BEM
-## Modern JavaScript(ES6)
-- [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
-- [ ] [es6katas.org](http://es6katas.org/)
+## Modern JavaScript ES6+
+  ### Books:
+  - [ ] [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
+
+  ### Courses:
+  - [x] [Introduction to JavaScript (ES6)](https://www.codecademy.com/learn/introduction-to-javascript)
+  - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
+  - [ ] [es6katas.org](http://es6katas.org/)
 
 ## JavaScript Data Structures & Algorithms
 - [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
