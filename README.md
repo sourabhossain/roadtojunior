@@ -1,4 +1,4 @@
-# Front End Development Learning-Path-and-Resources-2018
+# Front End Development Learning Path and Resources - 2018
 Self Thought Front End Development Learning Path and Resources - 2018
 
 # Background:
@@ -44,7 +44,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] [Sass](#sass)
 - [x] [Bootstrap](#bootstrap)
 - [ ] [BEM](#bem)
-- [ ] [Modern JavaScript ES6+](#modern-javascript)
+- [ ] [Modern JavaScript - ES6+](#modern-javascript---es6+)
 - [ ] [JavaScript Data Structures and Algorithms](#javascript-data-structure-and-algorithms)
 - [ ] [Webpack](#webpack)
 - [ ] [Gulp](#gulp)
@@ -124,8 +124,9 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
     3. [Part-III](https://scotch.io/courses/learn-jquery-for-total-noobs-volume-iii-demos-practice-course)
 
 ## CLI
-  1. [Rithm School: CLI](https://www.rithmschool.com/courses/terminal)
-  3. [Codecademy: Learn CLI](https://www.codecademy.com/learn/learn-the-command-line)
+ - [ ] [Rithm School: CLI](https://www.rithmschool.com/courses/terminal)
+ - [x] [Codecademy: Learn CLI](https://www.codecademy.com/learn/learn-the-command-line)
+ - [x] [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 
 ## Git
   1. [Official Docs](https://git-scm.com/doc)
@@ -154,14 +155,14 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   2. [npm](https://www.npmjs.com/)
   3. [yarn](https://yarnpkg.com/en/)
 
-## CSS Preprocessor - Sass
+## Sass
   1. [Codecademy: Learn Sass](https://www.codecademy.com/learn/learn-sass)
   2. [Sass Official Docs](https://sass-lang.com/guide)
   3. [Sass online Playground: Sassmeister](https://www.sassmeister.com/)
 
 ## Bootstrap
 ## BEM
-## Modern JavaScript ES6+
+## Modern JavaScript - ES6+
   ### Books:
   - [ ] [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
 
