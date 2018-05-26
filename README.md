@@ -164,6 +164,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## CSS Organizer - BEM
 ## Modern JavaScript: ES6
 - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
+- [ ] [es6katas.org](http://es6katas.org/)
 
 ## JavaScript Data Structures & Algorithms
 - [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
