@@ -54,6 +54,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] [Redux or Mobx](#redux-or-mobx)
 - [ ] [Jest + Enzyme](#jest-+-enzyme)
 - [ ] [Next.js](#next)
+- [ ] [Interview Preparation](#interview-preparation)
 - [ ] [Others](#others)
 
 # Resources:
@@ -70,6 +71,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [x] [Learn CSS3: W3schools tutorials](https://www.w3schools.com/css/)
   - [x] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
   - [x] [Coursera: Intro to CSS3](https://www.coursera.org/learn/introcss)
+  - [ ] [Practice: 30SecondsOfCSS](https://atomiks.github.io/30-seconds-of-css/)
  
   ### CSS Flexbox:
   - [ ] [What is Flexbox? by Wes Bos](http://flexbox.io/)
@@ -170,6 +172,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [x] [Introduction to JavaScript (ES6)](https://www.codecademy.com/learn/introduction-to-javascript)
   - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
   - [ ] [es6katas.org](http://es6katas.org/)
+  - [ ] [30SecondsOfCode (JavaScript)](https://30secondsofcode.org/)
 
 ## JavaScript Data Structures & Algorithms
 - [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
@@ -185,6 +188,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Redux or Mobx
 ## Jest + Enzyme
 ## Next.js
+## Interview Preparation:
+- [] [30SecondOfInterview](https://30secondsofinterviews.org/)
 ## Others
 
 
