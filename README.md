@@ -117,11 +117,11 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] []()
 
 ## jQuery(Optional)
-  - [jQuery - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+  - [ ] [jQuery - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
   - jQuery for total noobs
-    1. [Part-I](https://scotch.io/courses/jquery-for-total-noobs-volume-i-javascript-crash-course)
-    2. [Part-II](https://scotch.io/courses/jquery-for-total-noobs-volume-ii-jquery-is-so-easy-course)
-    3. [Part-III](https://scotch.io/courses/learn-jquery-for-total-noobs-volume-iii-demos-practice-course)
+    - [x] [Part-I](https://scotch.io/courses/jquery-for-total-noobs-volume-i-javascript-crash-course)
+    - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> [Part-II](https://scotch.io/courses/jquery-for-total-noobs-volume-ii-jquery-is-so-easy-course)
+    - [ ] [Part-III](https://scotch.io/courses/learn-jquery-for-total-noobs-volume-iii-demos-practice-course)
 
 ## CLI
  - [ ] [Rithm School: CLI](https://www.rithmschool.com/courses/terminal)
@@ -129,9 +129,9 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
  - [x] [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 
 ## Git
-  1. [Official Docs](https://git-scm.com/doc)
-  2. [Books: Pro Git](https://git-scm.com/book/en/v2)
-  3. [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+  - [x] [Official Docs](https://git-scm.com/doc)
+  - [ ] [Books: Pro Git](https://git-scm.com/book/en/v2)
+  - [x] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 
 ## Github
   1. [Rithm School: Git & Github](https://www.rithmschool.com/courses/git)
@@ -176,6 +176,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] [JavaScript implementation of different computer science algorithms](https://github.com/mgechev/javascript-algorithms)
 
 ## React
+- [x] [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 - [ ] [Create React App](https://github.com/facebook/create-react-app)
 
 ## Webpack
@@ -185,3 +186,22 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Jest + Enzyme
 ## Next.js
 ## Others
+
+
+
+
+
+
+
+
+
+
+
+<!-- Some emoji collection -->
+<!-- 
+  1. Reading: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading">
+
+  2. Started: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started">
+
+  3. Running: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing">
+ -->
