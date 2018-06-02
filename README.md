@@ -191,8 +191,10 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Redux or Mobx
 ## Jest + Enzyme
 ## Next.js
+
 ## Interview Preparation:
-- [] [30SecondOfInterview](https://30secondsofinterviews.org/)
+- [ ] [30SecondOfInterview](https://30secondsofinterviews.org/)
+
 ## Others
 
 
