@@ -134,12 +134,15 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [x] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 
 ## Github
-  1. [Rithm School: Git & Github](https://www.rithmschool.com/courses/git)
-  2. [A Developer Intro to Github](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
+  - [x] [How you can learn Git and GitHub while you’re learning to code](https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba)
+  - [ ] [Rithm School: Git & Github](https://www.rithmschool.com/courses/git)
+  - [ ] [A Developer Intro to Github](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
 ## Documentation
-- [x] [The eight rules of good documentation](https://oreil.ly/2knSVdi)
-- [x] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+  - [x] [The eight rules of good documentation](https://oreil.ly/2knSVdi)
+  - [x] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+  - [x] [Good Practice README.md template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+  - [x] [Good Practice CONTRIBUTING.md template](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
 
 ## HTTP/HTTPs and APIs
 - [ ] [MDN: HTTP Explain](https://developer.mozilla.org/en-US/docs/Web/HTTP)
