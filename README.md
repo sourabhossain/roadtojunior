@@ -178,19 +178,20 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
   - [ ] [es6katas.org](http://es6katas.org/)
   - [ ] [30SecondsOfCode (JavaScript)](https://30secondsofcode.org/)
+  - [ ] [ES6 Crash Course by Laracast](https://laracasts.com/series/es6-cliffsnotes)
 
 ## JavaScript Data Structures & Algorithms
 - [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [ ] [JavaScript implementation of different computer science algorithms](https://github.com/mgechev/javascript-algorithms)
 
 ## React
-- [x] [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
-- [ ] [Create React App](https://github.com/facebook/create-react-app)
+  - [x] [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
+  - [ ] [Create React App](https://github.com/facebook/create-react-app)
 
 ## Webpack
   - [ ] [Webpack Official Docs](https://webpack.js.org/concepts/)
   - [ ] [Webpack for Everyone by Laracast](https://laracasts.com/series/webpack-for-everyone)
-  
+
 ## Gulp
 ## ESLint
 ## Redux or Mobx
