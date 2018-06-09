@@ -188,6 +188,9 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 - [ ] [Create React App](https://github.com/facebook/create-react-app)
 
 ## Webpack
+  - [ ] [Webpack Official Docs](https://webpack.js.org/concepts/)
+  - [ ] [Webpack for Everyone by Laracast](https://laracasts.com/series/webpack-for-everyone)
+  
 ## Gulp
 ## ESLint
 ## Redux or Mobx
