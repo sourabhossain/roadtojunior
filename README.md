@@ -102,7 +102,6 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
     - [ ] [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
     - [ ] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
     - [ ] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-    - [ ] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 
   ### Courses:
   - [x] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
@@ -172,13 +171,19 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Modern JavaScript - ES6+
   ### Books:
   - [ ] [Eloquent JavaScript, 3rd edition (ES6)](https://eloquentjavascript.net/)
+  - [ ] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 
   ### Courses:
   - [x] [Introduction to JavaScript (ES6)](https://www.codecademy.com/learn/introduction-to-javascript)
+  - [x] [ES6 by freeCodeCamp youtube channel](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+  - [x] [Babel](https://babeljs.io/)
+  - [ ] [ES6 by Kent C. Dodd at Paypal](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5)
   - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
-  - [ ] [es6katas.org](http://es6katas.org/)
+  - [ ] [ES6 by Udacity](https://classroom.udacity.com/courses/ud356)
   - [ ] [30SecondsOfCode (JavaScript)](https://30secondsofcode.org/)
   - [ ] [ES6 Crash Course by Laracast](https://laracasts.com/series/es6-cliffsnotes)
+  - [ ] [Intro to ES6 by Scrimba](https://scrimba.com/g/gintrotoes6)
+  
 
 ## JavaScript Data Structures & Algorithms
 - [ ] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
