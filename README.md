@@ -178,6 +178,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [x] [ES6 by freeCodeCamp youtube channel](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
   - [x] [Babel](https://babeljs.io/)
   - [ ] [ES6 by Kent C. Dodd at Paypal](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgUA2ziIML3-7sMbS7utie5)
+  - [ ] [Modern JavaScript by Tyler McGinnis youtube](https://www.youtube.com/playlist?list=PLqrUy7kON1meLrM6e7WW02jJ8QongnT7Z) and [here is the paid course](https://tylermcginnis.com/courses/modern-javascript/)
   - [ ] [Build the future of the web with modern JavaScript](https://www.youtube.com/watch?v=mIWCLOftfRw&t=6s)
   - [ ] [ES6 by Udacity](https://classroom.udacity.com/courses/ud356)
   - [ ] [30SecondsOfCode (JavaScript)](https://30secondsofcode.org/)
