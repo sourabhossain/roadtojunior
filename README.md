@@ -205,7 +205,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Next.js
 
 ## Interview Preparation:
-- [ ] [30SecondOfInterview](https://30secondsofinterviews.org/)
+  - [ ] [30SecondOfInterview](https://30secondsofinterviews.org/)
+  - [ ] [Front End Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)
 
 ## Others
 
