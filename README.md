@@ -207,6 +207,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Interview Preparation:
   - [ ] [30SecondOfInterview](https://30secondsofinterviews.org/)
   - [ ] [Front End Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)
+  - [ ] [Front-end-Developer-Interview-Questions by H5BP](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+  - [ ] [Interview Questions for front-end-Developer by Jhankar Mahbub](http://thatjsdude.com/interview/)
 
 ## Others
 
