@@ -209,6 +209,8 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [ ] [Front End Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)
   - [ ] [Front-end-Developer-Interview-Questions by H5BP](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
   - [ ] [Interview Questions for front-end-Developer by Jhankar Mahbub](http://thatjsdude.com/interview/)
+  - [ ] [7 Interview Questions for a Frontend Developer](http://blog.honeypot.io/interview-questions-for-a-frontend-developer/)
+  - [ ] [Most Common Technical Interview Question for FrontEnd Developers](https://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/)
 
 ## Others
 
