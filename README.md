@@ -214,6 +214,18 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 
 ## Others
 
+# Courses I have followed:
+- [ ] [freeCodeCamp](https://www.freecodecamp.org/)
+- [ ] [Codecademy: Web Development track](https://www.codecademy.com/catalog/subject/web-development)
+- [ ] [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+- [ ] [The Advanced Web Developer Bootcamp by Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
+- [ ] [Advanced CSS and Sass by Jonas Schmedtmann](https://www.udemy.com/advanced-css-and-sass/)
+- [ ] [Rithm School Web Development Curriculum](https://www.rithmschool.com/curriculum)
+- [ ] [Udacity: Become a Front End Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+- [ ] [Udacity: Become a Professional React Developer](https://www.udacity.com/course/react-nanodegree--nd019)
+- [ ] [Kent C. Dodds: How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
+- [ ] [Tyler McGinnis React Courses](https://tylermcginnis.com/courses/)
+
 
 
 
