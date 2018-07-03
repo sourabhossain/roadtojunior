@@ -217,6 +217,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 # Courses I have followed:
 - [ ] [freeCodeCamp](https://www.freecodecamp.org/)
 - [ ] [Codecademy: Web Development track](https://www.codecademy.com/catalog/subject/web-development)
+- [ ] [Project Based Learning](https://github.com/tuvtran/project-based-learning#javascript)
 - [ ] [P1xt: Job Ready Guide - JavaScript Edition 2.0](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)
 - [ ] [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 - [ ] [The Advanced Web Developer Bootcamp by Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
