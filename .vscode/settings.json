@@ -1,4 +1,5 @@
 {
+    "editor.tabSize": 2,
     // Default Terminal for Windows
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
 
