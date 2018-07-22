@@ -138,6 +138,7 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
   - [x] [How you can learn Git and GitHub while you’re learning to code](https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba)
   - [ ] [Rithm School: Git & Github](https://www.rithmschool.com/courses/git)
   - [ ] [A Developer Intro to Github](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
+  - [How to contribute an open source project along with best practices in bangla](https://bit.ly/2NAOWXk)
 
 ## Documentation
   - [x] [The eight rules of good documentation](https://oreil.ly/2knSVdi)
