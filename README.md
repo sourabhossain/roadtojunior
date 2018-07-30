@@ -205,6 +205,10 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
 ## Jest + Enzyme
 ## Next.js
 
+## Design Patterns:
+  - [ ] [Design Pattern by Source Making](https://sourcemaking.com/design_patterns)
+  - [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 ## Interview Preparation:
   - [ ] [30SecondOfInterview](https://30secondsofinterviews.org/)
   - [ ] [Front End Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)
