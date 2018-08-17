@@ -125,14 +125,14 @@ before going to deep div at first we discuss about [Kamran Ahmed *Web Developer 
     - [ ] [Part-III](https://scotch.io/courses/learn-jquery-for-total-noobs-volume-iii-demos-practice-course)
 
 ## CLI
- - [ ] [Rithm School: CLI](https://www.rithmschool.com/courses/terminal)
+ - [x] [Rithm School: CLI](https://www.rithmschool.com/courses/terminal)
  - [x] [Codecademy: Learn CLI](https://www.codecademy.com/learn/learn-the-command-line)
  - [x] [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 
 ## Git
   - [x] [Official Docs](https://git-scm.com/doc)
-  - [ ] [Books: Pro Git](https://git-scm.com/book/en/v2)
   - [x] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+  - [ ] [Books: Pro Git](https://git-scm.com/book/en/v2)
 
 ## Github
   - [x] [How you can learn Git and GitHub while you’re learning to code](https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba)
