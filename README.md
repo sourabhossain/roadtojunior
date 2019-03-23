@@ -1,5 +1,5 @@
-# Front End Development Learning Path and Resources - 2018
-Self Thought Front End Development Learning Path and Resources - 2018
+# Front End Development Learning Path and Resources
+Self Thought Front End Development Learning Path and Resources
 
 # Background:
 There are so many guide available in the virtual world. some of most famous *Front End Web Developer Roadmap* blog posts see below:
