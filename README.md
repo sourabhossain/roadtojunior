@@ -1,6 +1,6 @@
 # Junior Developer Roadmap - 2020 [WIP]
 
-![Warning](./warning.jpg) - This guide is work in progress.
+<img src="./warning.jpg" alt="warning" width=200 height=50> - This guide is work in progress.
 
 This is a language, frameworks and library agnostic solid ultimate guide to Become a Junior Developer. but one thing is clear - this is my own thought and experience. you may found thousands of videos, articles, blog posts and developer guidelines handbook. most of them are same and a few of them are good enough. you can search and see them all or a few of them. I will lead you to go through a solid path and recommends well known courses to learn the specific topics.
 
