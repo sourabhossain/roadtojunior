@@ -30,3 +30,15 @@ You can ask me anything by writing [here](https://github.com/jamal-pb95/ama) or 
 ## Step - 18: Networking, Job Market Research & Job Searching
 ## Step - 19: Interview Preparation
 ## Step - 20: Salary Negatiation & Get Your Dream Job
+
+### Resources
+ - [freeCodeCamp](https://www.freecodecamp.org/)
+ - [Codecademy](https://www.codecademy.com/)
+ - [W3Schools](https://www.w3schools.com/)
+ - [Udacity](https://udacity.com/)
+ - [WesBos](https://wesbos.com/)
+ - [CodingHeroes](https://codingheroes.io/)
+ - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+ - [Teach Yourself CS](https://teachyourselfcs.com/)
+ - [Edx](https://www.edx.org/)
+ - [Coursera](https://www.coursera.org/)
