@@ -184,6 +184,7 @@ JavaScript is the only language that can interact with browser and when decided 
 
 - [ ] [PWA Starter Kit by Monica](https://www.youtube.com/watch?v=we3lLo-UFtk)
 - [ ] [PWA Summit playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb)
+- [ ] [HTML, CSS, JS PWA](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
 
 ### Package Manager: npm and/or Yarn
 
