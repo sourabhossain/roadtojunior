@@ -46,3 +46,4 @@ You can ask me anything by writing [here](https://github.com/jamal-pb95/ama) or 
  - [Edx](https://www.edx.org/)
  - [Coursera](https://www.coursera.org/)
  - [Rithm School - Free Courses](https://www.rithmschool.com/courses)
+ - [Junior Devs Projects - 2020](https://github.com/Junior-Devs/2020-Junior-Devs-Project)
