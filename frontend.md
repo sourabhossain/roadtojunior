@@ -244,6 +244,9 @@ JavaScript is the only language that can interact with browser and when decided 
 
 ### Redux or Mobx
 
+- [x] [React with Redux](https://www.valentinog.com/blog/redux/)
+- [ ] [Redux React Guide by Tania Rascia](https://www.taniarascia.com/redux-react-guide/)
+
 ### Jest + Enzyme
 
 ### Next.js
