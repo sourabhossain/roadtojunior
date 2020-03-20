@@ -267,6 +267,7 @@ JavaScript is the only language that can interact with browser and when decided 
 - [ ] [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
 
 ### Others
+- [ ] [Dokku](https://github.com/dokku/dokku)
 
 #### Courses I have followed:
 
