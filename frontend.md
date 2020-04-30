@@ -285,3 +285,4 @@ JavaScript is the only language that can interact with browser and when decided 
 - [ ] [Udacity: Become a Professional React Developer](https://www.udacity.com/course/react-nanodegree--nd019)
 - [ ] [Kent C. Dodds: How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 - [ ] [Tyler McGinnis React Courses](https://tylermcginnis.com/courses/)
+- [ ] [Frontend Tools](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn)
