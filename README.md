@@ -32,7 +32,7 @@ You can ask me anything by writing [here](https://github.com/jamal-pb95/ama) or 
 ## Step - 17: Building Resume & Portfolio
 ## Step - 18: Networking, Job Market Research & Job Searching
 ## Step - 19: Interview Preparation
-## Step - 20: Salary Negatiation & Get Your Dream Job
+## Step - 20: Salary Negotiation & Get Your Dream Job
 
 ### Resources
  - [freeCodeCamp](https://www.freecodecamp.org/)
