@@ -10,29 +10,40 @@ This is a language, frameworks and library agnostic solid ultimate guide to **Be
 
 You can ask me anything by writing [here](https://github.com/jamal-pb95/ama) or shoot me an email: [jamal.pb95@gmail.com](mailto:jamal.pb95@gmail.com).
 
+## Background
+## Mandatory
+  - Internet
+  - Programming Paradigm
+  - Algorithm & Data Structures
+  - Operating System
+  - OOP
+  - Design Pattern
+  - Terminal
+  - Git
 
-## Step - 0: Background
-## Step - 1: Basic Knowledge
-  1. Learn HTML & CSS by [Marksheet](https://marksheet.io/)
-## Step - 2: Programming Foundation
-## Step - 3: Learning HTML & CSS
-## Step - 4: Learning JavaScript
-## Step - 5: Building Projects (Frontend)
-## Step - 6: Learning Web Development Basic
-## Step - 7: Learning OOP based Programming Language (Python / PHP / C# / Java)
-## Step - 8: Problem Solving based on OOP & Languages Features
-## Step - 9: Learning Data Structures
-## Step - 10: Problem Solving based on Data Structures
-## Step - 11: Learning Algorithms
-## Step - 12: Problem Solving based on Algorithms
-## Step - 13: Learning Frameworks/Library (Django / Laravel / ASP.Net / Spring)
-## Step - 14: Building Projects (OOP based)
-## Step - 15: Learning Databases ([SQL - sqlite3 & MySQL][No-SQL - MongoDB])
-## Step - 16: Building Projects (Full stack)
-## Step - 17: Building Resume & Portfolio
-## Step - 18: Networking, Job Market Research & Job Searching
-## Step - 19: Interview Preparation
-## Step - 20: Salary Negotiation & Get Your Dream Job
+## Front-End
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap/ Foundation/ Tailwind CSS
+  - Sass
+  - React/ Angular/ VueJs
+  - TypeScript
+
+## Back-End
+  - Node Js
+  - Express js
+  - Learning Databases (SQL/ No-SQL)
+  - Deploying
+  - System Design
+  - Database Design
+
+## Interview
+  - Interview Problem Solving
+  - Resume & Portfolio
+  - Networking, Job Market Research & Job Searching
+  - Interview Preparation
+  - Salary Negotiation 
 
 ### Resources
  - [freeCodeCamp](https://www.freecodecamp.org/)
