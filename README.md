@@ -1,4 +1,4 @@
-# Junior Developer Roadmap - 2020 [WIP]
+# Junior Developer Roadmap - 2022 [WIP]
 
 ![warning](./images/warning.jpg) 
 
